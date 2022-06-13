@@ -30,6 +30,7 @@ Developed by:Ragul M
 RegisterNumber:212221230080  
 */
 ```
+~~~
 import pandas as pd
 data=pd.read_csv("/content/spam.csv",encoding='latin-1')
 data.head()
@@ -50,6 +51,7 @@ y_pred
 from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
+~~~
 ## Output:
 ![SVM For Spam Mail Detection](sam.png)
 
