@@ -62,7 +62,6 @@ accuracy
 ## y_pred:
 ![pic 4](https://github.com/ragulmani936/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/sklearn.png)
 ## Accuracy:
-![pic 5]()
-
+![pic 5](https://github.com/ragulmani936/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/sklearn%20metrics.png)
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
