@@ -54,8 +54,9 @@ accuracy
 ~~~
 ## Output:
 ## Data Head:
-![pic 1]()
-
+![pic 1](https://github.com/ragulmani936/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/data%20head.png)
+## Data info:
+![pic 2]()
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
