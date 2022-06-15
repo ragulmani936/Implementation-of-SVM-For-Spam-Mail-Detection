@@ -53,7 +53,8 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 ~~~
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+## Data Head:
+![pic 1]()
 
 
 ## Result:
